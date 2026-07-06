@@ -1,7 +1,7 @@
 ---
 name: create-custom-dashboard
 version: 0.8.5
-description: Interactively creates a new custom dashboard bundle for the fm-lab dashboard system. Asks the user about the desired dashboard content, drafts SQL queries, shows sample results, proposes a presentation format, asks for a name, and generates the full bundle directory under `rest-api/templates/dashboards-custom/<id>/`. Triggers (English): "/create-custom-dashboard", "create a new dashboard for X", "new dashboard", "build a dashboard that shows X". Triggers (German): "erstelle ein neues Dashboard für X", "neues Dashboard", "baue ein Dashboard das X zeigt".
+description: "Interactively creates a new custom dashboard bundle for the fm-lab dashboard system. Asks the user about the desired dashboard content, drafts SQL queries, shows sample results, proposes a presentation format, asks for a name, and generates the full bundle directory under `rest-api/templates/dashboards-custom/<id>/`. Triggers (English): \"/create-custom-dashboard\", \"create a new dashboard for X\", \"new dashboard\", \"build a dashboard that shows X\". Triggers (German): \"erstelle ein neues Dashboard für X\", \"neues Dashboard\", \"baue ein Dashboard das X zeigt\"."
 ---
 
 # Create a custom dashboard

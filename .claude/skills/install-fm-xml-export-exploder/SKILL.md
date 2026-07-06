@@ -1,7 +1,7 @@
 ---
 name: install-fm-xml-export-exploder
 version: 0.8.5
-description: Clone and install the fm-xml-export-exploder repository for splitting FileMaker XML exports into individual components. Automatically checks for newer commits and prompts before updating. Triggers (English): "install fm-xml-export-exploder", "clone the XML exploder". Triggers (German): "installiere fm-xml-export-exploder", "XML-Exploder klonen".
+description: "Clone and install the fm-xml-export-exploder repository for splitting FileMaker XML exports into individual components. Automatically checks for newer commits and prompts before updating. Triggers (English): \"install fm-xml-export-exploder\", \"clone the XML exploder\". Triggers (German): \"installiere fm-xml-export-exploder\", \"XML-Exploder klonen\"."
 ---
 
 # fm-xml-export-exploder Repository Installation Skill

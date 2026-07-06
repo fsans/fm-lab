@@ -1,7 +1,7 @@
 ---
 name: install-ooe-fm
 version: 0.8.5
-description: Clone and install the ooe-fm (One Of Everything) FileMaker reference repository for XML test cases. Automatically checks for newer commits and prompts before updating. Triggers (English): "install ooe-fm", "clone the ooe-fm test data". Triggers (German): "installiere ooe-fm", "ooe-fm Testdaten klonen".
+description: "Clone and install the ooe-fm (One Of Everything) FileMaker reference repository for XML test cases. Automatically checks for newer commits and prompts before updating. Triggers (English): \"install ooe-fm\", \"clone the ooe-fm test data\". Triggers (German): \"installiere ooe-fm\", \"ooe-fm Testdaten klonen\"."
 ---
 
 # ooe-fm Repository Installation Skill
