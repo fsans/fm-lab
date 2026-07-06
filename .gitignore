@@ -63,3 +63,7 @@ apps/*/.env.production
 # Plugin settings (local, generated on first run)
 .fmlab/plugins.json
 .fmlab/plugins/
+
+# Runtime state (last XML conversion / clustering run results)
+.fmlab/last_xml_run.json
+.fmlab/cluster_run.json

@@ -82,7 +82,7 @@ It is highly recommended to install the basic documentation set. It provides inl
 - `.claude/skills/skill-creator` — Helps you build your own skills to extend the agentic workflow.
 
 **XML conversion**
-- `.claude/skills/convert-xml` — Runs the XML conversion with checks and options.
+- `.claude/skills/convert-fm-xml` — Runs the XML conversion with checks and options.
 - `.claude/skills/test-convert-xml` — Runs a test conversion against OOE references.
 
 **Agentic analysis**
